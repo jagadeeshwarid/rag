@@ -1,0 +1,12 @@
+langchain
+langchain-embeddings
+langchain-groq
+langchain-community
+sentence-transformers
+faiss-cpu
+transformers
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
